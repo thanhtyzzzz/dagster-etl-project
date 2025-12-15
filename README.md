@@ -29,11 +29,11 @@ mkdir data
 
 
 
-### **2. Run Pipeline**
+### 2. Run Pipeline
 dagster dev -m dagster_etl
 
 
-**### Pipeline Flow**
+### Pipeline Flow
 
 Extract → Transform → Load → Analytics
 
